@@ -9,11 +9,3 @@ redirect_from:
 ---
 
 I am a EC undergraduate student at GRIET. I am interested in Machine Learning and Deep Learning, especially in GANs and Unsupervised Learning, with its applications in computer vision and image processing applications.
-
-Outside of research, I spend most of my time learning new stuff.
-
-- [Publications](#pub)
-- [Side Projects](#project)
-- [Industry Experience](#work)
-- [Teaching Experience](#teach)
-- [Leadership Experience](#leader)
