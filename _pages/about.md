@@ -13,12 +13,12 @@ I am a EC undergraduate student at GRIET. I am interested in Machine Learning an
 ***
 
 <a name="project"></a>
-# Side Projects
+# Projects
 
 ### `sharinGAN`
 <p align="center">
   <img src="https://github.com/jaychandra6/sharinGAN/blob/master/static/gif.gif" width=600>
 </p>
 
-[**sharinGAN**](https://github.com/jaychandra6/sharinGAN) is a simple implementation of Generative Adversarial Networks that generates sharingans. I trained the model using PyTorch.
+[**sharinGAN**](https://github.com/jaychandra6/sharinGAN) is a simple implementation of Generative Adversarial Networks that generates sharingans. I trained the model using PyTorch. This model was trained on Google Colab Notebook. It took 15 minutes to train and the number of epochs was 3000. The dataset consists of only 56 images.
 ***
