@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "ShriKumaran PB"
 title_separator          : "-"
 name                     : &name "ShriKumaran PB"
-description              : &description "personal description"
+description              : &description "Interested in applications of Computer Vision and Deep Learning in Robotics"
 url                      : https://shrikumaran.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "shrikumaran/shrikumaran.github.io"
