@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Bachelor of Technology in Production Engineering with minors in Computer Science, National Institue of Technology,Trichy , 2022(Expected)
+* BTech in Production Engineering with minors in Computer Science, NIT, Trichy, 2022 (Expected)
 
 Work experience
 ======
