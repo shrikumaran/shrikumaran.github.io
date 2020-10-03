@@ -25,7 +25,11 @@ Created this bot as a project for Sangam'20, a hardware hackathon.
 
 Experience
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+### Computer Vision reasearch intern at OriginHealth.ai
+OriginHealth Pte. Ltd. (Singapore) is a startup working to simlify the process of mothers getting their ultrasound scans. Currently we face a critical shortage of radiologists to analyse ultrasound scans , this leads to long waiting times which can lead to delayed interventions in case of any anamolies. To prevent this we worked on automating the task of analysing the scans and giving feedback for the doctor to act upon. I worked on the Computer Vision team which was tasked with finding ways to implement various clinical measurement on the scans. 
+
+### Summer intern at Alphabt.ai
+
 
 Relevant courses
 ------
