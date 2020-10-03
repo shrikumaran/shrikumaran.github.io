@@ -27,6 +27,11 @@ Experience
 ------
 ### Computer Vision reasearch intern at OriginHealth.ai
 OriginHealth Pte. Ltd. (Singapore) is a startup working to simlify the process of mothers getting their ultrasound scans. Currently we face a critical shortage of radiologists to analyse ultrasound scans , this leads to long waiting times which can lead to delayed interventions in case of any anamolies. To prevent this we worked on automating the task of analysing the scans and giving feedback for the doctor to act upon. I worked on the Computer Vision team which was tasked with finding ways to implement various clinical measurement on the scans. 
+#### Features implemented
+* Developed a kernel based algorithm to remove machine imprints on ultrasound images.
+  * Most ultrasound images we collected for training our models had various marking from the machine(logos, scales etc.), this greatly hindered our model performace.So, we had to come up with a way to remove this imprints.
+  * Did an initial literature study to find exisiting methods used to solve similar problems. Most solutions involved using Discrete Cosine Transforms to remove it, impelemented a DCT based approach but results were'ny good.
+  * Implemented my own algorithm by defining my own set of kernels. Passed different combinations of kernels on the image to remove different types of imprints. Acheived better results by removing far more imprints with lesser passes on the image compared to the DCT approach.
 
 ### Summer intern at Alphabt.ai
 
