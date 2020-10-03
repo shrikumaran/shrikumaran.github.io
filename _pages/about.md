@@ -12,9 +12,11 @@ I am an undergrad majoring in Production engineering with minors in Computer Sci
 
 Skills
 ======
-Opencv Pytorch Tensorflow
-* Bullet one
-* Number one
+* PyTorch
+* Tensorflow
+* OpenCV
+* ROS
+
 
 Projects
 ======
