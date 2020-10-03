@@ -10,7 +10,7 @@ main:
 #    url: /teaching/    
     
   - title: "Projects"
-    url: /portfolio/
+    url: https://shrikumaran.github.io/projects/
         
 #  - title: "Blog Posts"
 #    url: /year-archive/
@@ -19,4 +19,4 @@ main:
     url: /cv/
     
   - title: "Experience"
-    url: https://shrikumaran.github.io/projects/
+    url: https://shrikumaran.github.io/experience/
