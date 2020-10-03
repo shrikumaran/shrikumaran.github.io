@@ -27,7 +27,7 @@ OriginHealth Pte. Ltd. (Singapore) is a startup working to simlify the process o
 ### Summer intern at Alphabt.ai
 
 Alphabt.ai is startup working on implementing AI solutions to solve real world problems faced by their clients. Part of a team which was developing solutions to automate the assembly line of an engine block manufacturer. 
-## Features implemented
+### Features implemented
 * Developed a Sobel filter based algorithm to remove fuzzy images from the collected dataset.
 * Developed a morphological transformations based algorithm to remove noise and enhance the characters
 from the laser engravings on engine blocks.
