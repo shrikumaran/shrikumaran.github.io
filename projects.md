@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: https://shrikumaran.github.io/projects/
+permalink: /projects/
 title: "Projects"
 excerpt: "Projects"
 author_profile: true
