@@ -10,14 +10,6 @@ redirect_from:
 
 I am an undergrad majoring in Production engineering with minors in Computer Science from National Institute of Technology, Trichy.
 
-Skills
-======
-* PyTorch
-* Tensorflow
-* OpenCV
-* ROS
-
-
 Projects
 ======
 ## Precision Agriculture Bot
