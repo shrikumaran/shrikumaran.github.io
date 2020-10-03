@@ -305,6 +305,7 @@ tag_archive:
 #     category: /categories/:name/
 #     tag: /tags/:name/
 
+iis_slider_array: []
 
 # HTML Compression
 # - http://jch.penibelst.de/
