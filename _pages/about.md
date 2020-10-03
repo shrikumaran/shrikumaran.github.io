@@ -13,8 +13,8 @@ I am an undergrad majoring in Production engineering with minors in Computer Sci
 Skills
 ======
 Opencv Pytorch Tensorflow
-.Bullet one
-1.Number one
+* Bullet one
+* Number one
 
 Projects
 ======
