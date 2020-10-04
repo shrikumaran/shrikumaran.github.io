@@ -19,7 +19,7 @@ OriginHealth Pte. Ltd. (Singapore) is a startup working to simlify the process o
   * A common defect in fetal skulls are presence of deformities in the skull, these may be in the form of depressions or bulges.
   * Developed an algorithm using the concept of convex hull to detect depressions.
 * Developed an algorithm to unwrap the skull in fetal scan
-![](OH/unwrap.png)
+![](OH\unwrap.png)
   * In a scan image performing operations over the skull region proved to be difficult as we couldn't iterate over the region with ease.
   * To overcome this I implemented a way to unwrap the whole skull region into a rectangular strip over which we can easily iterate and test our measurement algorithms.
 * Developed a gradient based algorithm to detect sutures on the skull
