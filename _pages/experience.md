@@ -5,6 +5,7 @@ permalink: /experience/
 comments: true
 author_profile: true
 ---
+ {% include carousel.html height="50" unit="%" duration="7" %}
 
 ### Computer Vision reasearch intern at OriginHealth.ai
 
