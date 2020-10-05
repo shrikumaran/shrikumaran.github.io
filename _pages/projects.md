@@ -43,7 +43,7 @@ Various components of our project:
 Participated a line following robot competition where corrdiantes of the destination were inputted as images shown to a camera and the bot must follow the line to that coordinate.
 Developed a 2 wheel differential bot using Arduino. Fabricated a IR sensor array to detect the line. Developed an OpenCV algorithm to detect shapes shown to the camera.
 
-## Maze solving robot arm
+### Maze solving robot arm
 The aim of this project was to given an image of a maze the solution of the maze should be traced by the arm on the maze.
 * Developed a computer vision algorithm using OpenCV to detect the solution of the maze.
 * Fabricated a 2 DOF arm and controlled using Arduino to trace the maze's solution.
