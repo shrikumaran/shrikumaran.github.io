@@ -12,15 +12,20 @@ Classifies given X-Ray images of lungs into two classes, Normal lungs and lungs 
 Chest X-ray images (anterior-posterior) of pediatric patients of one to five years old from Guangzhou Women and Children’s Medical Center, Guangzhou was used to train the model. https://data.mendeley.com/datasets/rscbjbr9sj/2
 * Used transfer learning to train a VGG19 model pre-trained on ImageNet. Got a validation set accuracy of 85.5% after 100 epochs.
 * Developed a custom CNN model with 6 fully convolution layers and 3 fully connected layers with dropout implemented in each layer. Obtained a max validation set accuracy of 88.9%.
+
 ### Autoencoder
 Devloped an autoencoder for MNIST dataset. Developed one fully using fully connected layers alone and another using fully convolutional layers.
+
 ### Crops and weed detector
 * Collected images of local crops and weeds and labeled them using LabelImg.
 * Trained a FRCNN model on this dataset to detect weeds in real life conditions.
+
 ### Shape clasifier
 Developed an algorithm using contour approximation(ApproxPolyDP in OpenCV) to detect shapes shown to the camera.
+
 ### Room occupants detector
 Developed an algorithm using the YOLOv2 detector to keep track of occupants in a room and only power up the appliances close to them.
+
 ### Object detection app
 Developed a flutter application to perfom object detection on photos captured. Used Tflite to load MobileNet model to perform inferences.
 
