@@ -23,7 +23,7 @@ Devloped an autoencoder for MNIST dataset. Developed one fully using fully conne
 ### Shape clasifier
 Developed an algorithm using contour approximation(ApproxPolyDP in OpenCV) to detect shapes shown to the camera.
 
-### Room occupants detector
+### [Room occupants detector](https://github.com/shrikumaran/Transfi-NITT)
 Developed an algorithm using the YOLOv2 detector to keep track of occupants in a room and only power up the appliances close to them.
 
 ### Object detection app
