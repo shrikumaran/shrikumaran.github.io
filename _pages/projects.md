@@ -7,7 +7,7 @@ author_profile: true
 ---
 
 # Computer Vision and Deep Learning 
-### Pneumonia Clasifier
+### [Pneumonia Clasifier](https://github.com/shrikumaran/Lung-X-Ray-Classifier)
 Classifies given X-Ray images of lungs into two classes, Normal lungs and lungs infected with Pneumonia
 Chest X-ray images (anterior-posterior) of pediatric patients of one to five years old from Guangzhou Women and Children’s Medical Center, Guangzhou was used to train the model. https://data.mendeley.com/datasets/rscbjbr9sj/2
 * Used transfer learning to train a VGG19 model pre-trained on ImageNet. Got a validation set accuracy of 85.5% after 100 epochs.
